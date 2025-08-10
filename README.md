@@ -11,7 +11,7 @@ This method works for osu!lazer, but I assume that it can work for osu!stable as
 5. Delete the original osu!lazer data folder
 6. Open command prompt
 7. Run the command `mklink /j "original osu!lazer data path" "new OneDrive folder containing the data"` 
-   (make sure to keep the parenthesis then pasting the paths)
+   (make sure to keep the parenthesis when pasting the paths)
 8. Do the same thing on the other computer
 
 If you have a Mac, there should just be an option to change the folder location to the OneDrive folder containing all your osu!lazer data
