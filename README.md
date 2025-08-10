@@ -1,6 +1,6 @@
 # Sync-osu-lazer-across-devices-using-OneDrive
 
-So as far as I know, osu! does not have an option to sync stuff across computers, so I came up with a solution that uses a symbolic link to make a OneDrive folder the default folder location for all of your data.
+So as far as I know, osu! does not have an option to sync data across computers, so I came up with a solution that uses a symbolic link to make a OneDrive folder the default folder location for all of your data.
 
 This method works for osu!lazer, but I assume that it can work for osu!stable as well with some tinkering
 
