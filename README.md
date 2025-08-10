@@ -14,6 +14,7 @@ This method works for osu!lazer, but I assume that it can work for osu!stable as
 8. Do the same thing on the other computer
 
 If you have a Mac, there should just be an option to change the folder location to the OneDrive folder containing all your osu!lazer data
+
 Keep in mind OneDrive is a bit slow, so it might be a second before your data is synced between your devices
 
 I might make a tool to automate this process later, but it seems kind of unnecessary considering how simple the process is 
